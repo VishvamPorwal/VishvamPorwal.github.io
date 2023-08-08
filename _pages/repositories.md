@@ -2,7 +2,7 @@
 layout: page
 permalink: /repositories/
 title: Repositories
-description: 
+description: The majority of my work is done in private repositories. However, I have a few public repositories that I have created for the purpose of learning and sharing. I have also contributed to a few open-source projects.
 nav: true
 nav_order: 3
 ---
