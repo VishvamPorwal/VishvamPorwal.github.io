@@ -16,4 +16,4 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Experienced in machine learning and software development, I have had the privilege of contributing to diverse domains such as EdTech, ERP Tech, Retail Intelligence, Business Reliability Tech, and AgTech. With an insatiable appetite for learning, I have successfully completed over 40 certifications, constantly seeking new knowledge. I bring a dynamic skill set and a proven track record of delivering impactful solutions.
+Machine learning and software developer in the making. Over the last two and a half years, I have had the privilege of contributing to diverse domains such as EdTech, ERP Tech, Retail Intelligence, Business Reliability Tech, and AgTech. With an insatiable appetite for learning, I have successfully completed over 40 certifications, constantly seeking new knowledge. I bring a dynamic skill set and a proven track record of delivering impactful solutions.
