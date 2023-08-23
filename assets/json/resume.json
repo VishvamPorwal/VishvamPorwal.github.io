@@ -99,22 +99,38 @@
     {
       "institution": "University of Guelph",
       "url": "https://www.uoguelph.ca/",
-      "area": "M.Sc. in Computer Science(Thesis-based) in Collaboration with Vector Institute of AI.",
-      "studyType": "PhD",
-      "startDate": "1905-01-01",
-      "endDate": "1905-01-01",
+      "area": "Computer Science(Thesis-based) in Collaboration with Vector Institute of AI.",
+      "studyType": "Master of Science",
+      "startDate": "2023-09",
+      "endDate": "2025-09",
       "score": "",
       "courses": [
-        "Theory of Relativity"
+      ]
+    },
+    {
+      "institution": "Rajiv Gandhi Proudyogiki Vishwavidyalaya",
+      "url": "https://www.rgpv.ac.in/",
+      "area": "Computer Science and Engineering.",
+      "studyType": "Bachelor of Technology",
+      "startDate": "2023-09",
+      "endDate": "2025-09",
+      "score": "",
+      "courses": [
       ]
     }
   ],
   "awards": [
     {
-      "title": "Nobel Prize in Physics",
-      "date": "1921-11-01",
-      "awarder": "Royal Swedish Academy of Sciences",
-      "summary": "The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'"
+      "title": "ACM-ICPC Regionalist",
+      "date": "2020",
+      "awarder": "Association for Computing Machinery",
+      "summary": "A prestigious programming contest held for over 13 years. Led a team to Asia-wide level success."
+    },
+    {
+      "title": "Won Odyssey Hackathon",
+      "date": "2022",
+      "awarder": "OurWavehub",
+      "summary": "OurWavehub conducted this hackathon in Brampton, CA, and won prizes worth $10000."
     }
   ],
   "certificates": [],
