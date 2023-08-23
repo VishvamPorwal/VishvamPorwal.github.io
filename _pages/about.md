@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: Graduate Student | Machine Learning | Software Development
+subtitle: Machine Learning | Software Development
 
 profile:
   align: right
