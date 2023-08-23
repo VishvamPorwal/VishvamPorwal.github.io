@@ -24,33 +24,82 @@
   },
   "work": [
     {
-      "name": "University of Guelph",
+      "name": "School of Computer Science, University of Guelph",
       "position": "Graduate Research Assistant(Supervised by Dr.Asim Biswas and Dr.Stacey Scott)",
-      "startDate": "2023-09-01",
+      "startDate": "2023-09",
       "endDate": "Present",
       "summary": "Contributing to Agtech research focused on precision agriculture and digital soil mapping.",
       "highlights": [
-        "Relativity"
       ]
     },
     {
-      "name": "Institute for Advanced Study, Princeton University",
-      "position": "Professor of Theoretical Physics",
-      "url": "https://example.com",
-      "startDate": "1933-01-01",
-      "endDate": "1955-01-01",
-      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
+      "name": "University of Guelph",
+      "position": "Graduate Teaching Assistant(Supervised by Dr.Greg Klotz)",
+      "startDate": "2023-09",
+      "endDate": "Present",
+      "summary": "Aiding CIS3750 System Analysis and Design course of 128 students.",
       "highlights": [
-        "Relativity"
+      ]
+    },
+    {
+      "name": "Quantive",
+      "position": "Machine Learning Intern",
+      "startDate": "2022-12",
+      "endDate": "2023-06",
+      "highlights": [
+        "Trained Large language model variants, and optimized inference from Low-Rank Adaptation.",
+        "Created an automated engine for extracting organizational statistical highlights, slashing data analysis time by 50%."
+      ]
+    },
+    {
+      "name": "University of Guelph",
+      "position": "Mitacs Globalink Research Intern(Supervised by Dr.Asim Biswas)",
+      "startDate": "2022-05",
+      "endDate": "2022-10",
+      "summary": "One of 150 candidates worldwide to be selected for this prestigious internship. Focused on applying AI in Agriculture.",
+      "highlights": [
+        "Pioneered soil characterization through the implementation of computer vision techniques, resulting in a remarkable 200-hour reduction in lab analysis time for farmers.",
+        "Translated research into a seamlessly integrated mobile application for the agriculture ecosystem."
+      ]
+    },
+    {
+      "name": "Quantive",
+      "position": "Machine Learning Intern",
+      "startDate": "2021-10",
+      "endDate": "2022-05",
+      "highlights": [
+        "Engineered a POC of a multimodal project, securing a $1M contract with a global retail giant.",
+        "Incorporated CLIP for pre-training on 100,000 image-text batches, speeding up convergence by 50%.",
+        "Devised and implemented configurable end-to-end automation for production, cutting runtime by 86%.",
+        "Invented a state-of-the-art algorithm for time series analysis, minimizing the time needed by 98%."
+      ]
+    },
+    {
+      "name": "GSSOC'21, PSoC'21",
+      "position": "Open Source Developer",
+      "startDate": "2021-03",
+      "endDate": "2021-09",
+      "highlights": [
+        "Implemented ML-integrated web project admin section with analytics, including a Heat map increasing users by 40%.",
+        "Created platform for new open-source contributors, fetching good first issues and implementing static code analysis."
+      ]
+    },
+    {
+      "name": "MPD Industries",
+      "position": "Product Development Intern",
+      "startDate": "2021-06",
+      "endDate": "2022-10",
+      "highlights": [
+        "Launched a highly scalable cross-platform ERP application utilized by 1000-5000 users and developed a cutting-edge e-commerce platform tailored to the specific needs of 3000-4000 users."
       ]
     }
   ],
   "volunteer": [],
   "education": [
     {
-      "institution": "University of Zurich, Zurich, Switzerland",
-      "url": "https://www.uzh.ch/",
-      "area": "Software Development",
+      "institution": "University of Guelph",
+      "url": "https://www.uoguelph.ca/",
+      "area": "M.Sc. in Computer Science(Thesis-based) in Collaboration with Vector Institute of AI.",
       "studyType": "PhD",
       "startDate": "1905-01-01",
       "endDate": "1905-01-01",
@@ -72,10 +121,6 @@
   "publications": [],
   "skills": [],
   "languages": [
-    {
-      "language": "German",
-      "fluency": "Native speaker"
-    },
     {
       "language": "English",
       "fluency": "Fluent"
