@@ -1,8 +1,8 @@
 ---
 layout: page
-title: project 2
-description: a project with a background image and giscus comments
-img: assets/img/3.jpg
+title: ACM-ICPC Regionalist
+description: A prestigious programming contest held for over 13 years. Led a team to Asia-wide level success.
+img: assets/img/1.jpg
 importance: 2
 redirect: https://vishvamporwal.github.io/awards/
 category: work
