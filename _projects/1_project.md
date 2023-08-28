@@ -4,8 +4,7 @@ title: project 1
 description: a project with a background image
 img: assets/img/12.jpg
 importance: 1
-redirect: https://vishvamporwal.github.io/awards/
-category: 
+redirect: https://www.linkedin.com/feed/update/urn:li:activity:6961099313913446400/
 ---
 
 Every project has a beautiful feature showcase page.

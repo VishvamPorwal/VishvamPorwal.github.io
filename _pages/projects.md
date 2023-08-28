@@ -5,7 +5,6 @@ permalink: /awards/
 description:
 nav: True
 nav_order: 2
-display_categories: []
 horizontal: false
 ---
 
