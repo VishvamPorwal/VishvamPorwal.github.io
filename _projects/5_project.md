@@ -1,8 +1,8 @@
 ---
 layout: page
-title: project 5
-description: a project with a background image
-img: assets/img/1.jpg
+title: Departmental Award for Outstanding Achievement in Computer Science
+description: Awarded to one student each year for outstanding achievement in the field of Computer Science.
+img: assets/img/5.jpg
 importance: 3
 category: fun
 ---

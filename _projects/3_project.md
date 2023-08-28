@@ -3,9 +3,9 @@ layout: page
 title: Academic Achievement Award
 description: Awarded to the top 1% of students in the graduating class of 2023.
 img: assets/img/2.jpg
-redirect: https://unsplash.com
+redirect: https://vishvamporwal.github.io/awards/
 importance: 3
-category: work
+category: 
 ---
 
 Every project has a beautiful feature showcase page.
