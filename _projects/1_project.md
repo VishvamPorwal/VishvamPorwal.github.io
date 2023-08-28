@@ -1,10 +1,10 @@
 ---
 layout: page
-title: project 1
-description: a project with a background image
-img: assets/img/12.jpg
+title: Won Odyssey Hackathon
+description: OurWavehub conducted this hackathon in Brampton, CA, and won prizes worth $10000.
+img: assets/img/3.jpg
 importance: 1
-redirect: https://www.linkedin.com/feed/update/urn:li:activity:6961099313913446400/
+redirect: https://www.linkedin.com/posts/vishvam-porwal_iot-deeplearning-computervision-activity-6961099313913446400-KBNS?utm_source=share&utm_medium=member_desktop
 ---
 
 Every project has a beautiful feature showcase page.
