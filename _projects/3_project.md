@@ -1,8 +1,8 @@
 ---
 layout: page
-title: project 3
-description: a project that redirects to another website
-img: assets/img/7.jpg
+title: Academic Achievement Award
+description: Awarded to the top 1% of students in the graduating class of 2023.
+img: assets/img/2.jpg
 redirect: https://unsplash.com
 importance: 3
 category: work
