@@ -1,11 +1,11 @@
 ---
 layout: page
-title: Awards & Achievements
-permalink: /awards_achievements/
+title: Awards
+permalink: /awards/
 description:
 nav: True
 nav_order: 2
-display_categories: [Awards, Achievements]
+display_categories: []
 horizontal: false
 ---
 
