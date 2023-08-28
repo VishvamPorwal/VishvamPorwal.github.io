@@ -3,6 +3,7 @@ layout: page
 title: Departmental Award for Outstanding Achievement in Computer Science
 description: Awarded to one student each year for outstanding achievement in the field of Computer Science.
 img: assets/img/5.jpg
+redirect: https://vishvamporwal.github.io/awards/
 importance: 3
 category: fun
 ---
