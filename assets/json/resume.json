@@ -119,18 +119,6 @@
     }
   ],
   "awards": [
-    {
-      "title": "ACM-ICPC Regionalist",
-      "date": "2020",
-      "awarder": "Association for Computing Machinery",
-      "summary": "A prestigious programming contest held for over 13 years. Led a team to Asia-wide level success."
-    },
-    {
-      "title": "Won Odyssey Hackathon",
-      "date": "2022",
-      "awarder": "OurWavehub",
-      "summary": "OurWavehub conducted this hackathon in Brampton, CA, and won prizes worth $10000."
-    }
   ],
   "certificates": [],
   "publications": [],
