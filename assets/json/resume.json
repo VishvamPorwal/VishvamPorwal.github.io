@@ -24,7 +24,7 @@
   "work": [
     {
       "name": "School of Computer Science, University of Guelph",
-      "position": "Graduate Research Assistant(Supervised by Dr.Asim Biswas and Dr.Stacey Scott)",
+      "position": "Graduate Research Assistant (Supervised by Dr.Asim Biswas and Dr.Stacey Scott)",
       "startDate": "2023-09",
       "endDate": "Present",
       "summary": "Contributing to Agtech research focused on precision agriculture and digital soil mapping.",
@@ -33,11 +33,12 @@
     },
     {
       "name": "University of Guelph",
-      "position": "Graduate Teaching Assistant(Supervised by Dr.Greg Klotz)",
+      "position": "Graduate Teaching Assistant (Supervised by Dr.Daniel Gillis)",
       "startDate": "2023-09",
       "endDate": "Present",
       "summary": "Aiding CIS3750 System Analysis and Design course of 128 students.",
       "highlights": [
+        
       ]
     },
     {
